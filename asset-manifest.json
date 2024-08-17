@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stevedole808/airoso/static/css/main.f855e6bc.css",
+    "main.js": "/stevedole808/airoso/static/js/main.c4d4b5c7.js",
+    "static/js/453.f72a374f.chunk.js": "/stevedole808/airoso/static/js/453.f72a374f.chunk.js",
+    "static/media/moon.png": "/stevedole808/airoso/static/media/moon.46b3cdd053391c4dc8aa.png",
+    "index.html": "/stevedole808/airoso/index.html",
+    "main.f855e6bc.css.map": "/stevedole808/airoso/static/css/main.f855e6bc.css.map",
+    "main.c4d4b5c7.js.map": "/stevedole808/airoso/static/js/main.c4d4b5c7.js.map",
+    "453.f72a374f.chunk.js.map": "/stevedole808/airoso/static/js/453.f72a374f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c4d4b5c7.js"
+  ]
+}
